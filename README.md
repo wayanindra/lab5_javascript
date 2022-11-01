@@ -6,5 +6,7 @@ NAMA : Wayan Indra Y.P
 KELAS : TI.21.B1
 NIM : 312110321
 
-## ini tampilannya
+## ini adalah tampilannya
 ![gambar 1](sreenshot/ss1.png)
+
+
