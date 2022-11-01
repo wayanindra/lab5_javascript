@@ -7,6 +7,6 @@ KELAS : TI.21.B1
 NIM : 312110321
 
 ## ini adalah tampilannya
-![gambar 1](sreenshot/ss1.png)
+![gambar 1](screenshot/ss1.png)
 
 
